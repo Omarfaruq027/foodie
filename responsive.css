@@ -65,10 +65,10 @@
             
             @media (max-width:330px) {
                 /* wrapper */
-                /* .wrapper {
+                .wrapper {
                     padding-top: 7rem;
                     padding-bottom: 3.25rem;
-                } */
+                }
                 /* carousel design */
                 .testimonial-section .carousel-item {
                     padding: 12rem 3rem;
